@@ -1,1 +1,1 @@
-# Blog---CakePHP
+# Tutorial of CakePHP
